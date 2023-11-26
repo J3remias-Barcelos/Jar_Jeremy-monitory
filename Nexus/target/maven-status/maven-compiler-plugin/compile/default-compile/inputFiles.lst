@@ -1,14 +1,14 @@
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/captura/processador/Processador.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/login/Login.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/print/Prints.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/captura/PrimeiroPlano/PrimeiroPlano.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/Slack.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/conexao/Conectar.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/Main.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/captura/memoria/Memoria.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/Logs.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/BotSlack.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/captura/disco/Discos.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/captura/Monitoramento.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/captura/disco/DadosDisco.java
-/home/mike/Área de Trabalho/Nexus/login-Java/Nexus/src/main/java/projeto/menu/Menu.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\BotSlack.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\Main.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\captura\Monitoramento.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\menu\Menu.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\Slack.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\captura\PrimeiroPlano\PrimeiroPlano.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\captura\processador\Processador.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\conexao\Conectar.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\captura\disco\Discos.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\captura\disco\DadosDisco.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\login\Login.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\Logs.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\print\Prints.java
+C:\Users\jbcarneiro\OneDrive - Simpress\Área de Trabalho\Jar_Jeremy-monitory\Nexus\src\main\java\projeto\captura\memoria\Memoria.java
