@@ -12,4 +12,5 @@ projeto\captura\Monitoramento$Execution.class
 projeto\print\Prints.class
 projeto\captura\processador\Processador.class
 projeto\Logs.class
+projeto\ConectarSQL.class
 projeto\BotSlack.class
