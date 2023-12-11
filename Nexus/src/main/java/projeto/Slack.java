@@ -13,7 +13,7 @@ public class Slack{
     BotSlack botSlack = new BotSlack();
 
     private static final HttpClient client = HttpClient.newHttpClient();
-    private static final String URL = "https://hooks.slack.com/services/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";
+    private static final String URL = "https://hooks.slack.com/services/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";
 
     public static void sendMessage(JSONObject json) throws IOException, InterruptedException {
         HttpRequest request = HttpRequest.newBuilder()
